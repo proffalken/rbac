@@ -1,4 +1,4 @@
-# RBAC 
+# RBAC by proffalken
 (Hierarchical Role Based Access Control)
 
 [![Quality](https://codeclimate.com/github/seeden/rbac.png)](https://codeclimate.com/github/seeden/rbac/badges)
